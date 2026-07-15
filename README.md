@@ -73,7 +73,5 @@ The project demonstrates the integration of embedded systems, IoT, hardware inte
 ## Author
 
 Kishore Talawar
-
 Electronics & Communication Engineering Student
 
-Aspiring Embedded Systems & Semiconductor Engineer
