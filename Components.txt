@@ -1,0 +1,16 @@
+Hardware Components
+
+1. Raspberry Pi Zero 2W
+2. MicroSD Card (with Raspberry Pi OS)
+3. MFRC522 RFID Reader Module
+4. RFID Cards / RFID Key Tags
+5. SG90 Servo Motor
+6. 16x2 LCD Display
+7. I2C LCD Module (PCF8574)
+8. Buzzer
+9. Breadboard
+10. Jumper Wires (Male-to-Male, Male-to-Female)
+11. 5V Power Supply / USB Adapter
+12. USB Cable for Raspberry Pi (Micro A)
+13. Door Lock Mechanism (Prototype)
+14. Wi-Fi Connection (for Telegram notifications)
